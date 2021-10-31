@@ -4,7 +4,7 @@
 
 # Gabriel Moreno
 
-I'm Gabriel, from 🇻🇪, your trusted software engineer.
+I'm Gabriel, from 🇻🇪 &mdash; your trusted software engineer.
 
 ## What I do
 
