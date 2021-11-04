@@ -37,4 +37,4 @@ See more about me on my [website](https://gantoreno.com), see you there!
 
 <hr />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gantoreno)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gantoreno)](https://github.com/anuraghazra/github-readme-stats)
