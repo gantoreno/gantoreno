@@ -18,20 +18,25 @@ When I'm not developing commercial applications, I'm working on <u>personal & op
 
 You'll often see me using my preferred tech stack, which consists of:
 
--   **️⚛️ React** (frontend library of choice).
--   **📱 React Native** (for mobile applications).
--   **🎱 8base** as a backend-as-a-service provider (with GraphQL).
+- ⚛️ **React** (front-end library of choice).
+- 📱 **React Native** (for mobile applications).
+- 🐝 **Node.js** (with Express for back-end development).
+- 📦 **AWS** (for overall system infrastructure).
+- 🐬 **MySQL** (for relational databases).
+- 🍃 **MongoDB** (for NoSQL databases).
 
 Although I can also (and usually) work with:
 
--   **🐝 Node.js** (with Express for backend development).
--   **🔥 Firebase** (for real-time data).
--   **🐍 Python** (with TensorFlow, Pandas, NumPy, Django, Flask).
--   **🐘 PHP** (using Laravel & Bango — my framework).
--   **☕️ Java** (through AWT for graphical applications).
--   **➕ C++** (for data structures & algorithms, machine learning).
--   **🍃 MongoDB** (NoSQL databases).
--   **🐬 MySQL** (for relational databases).
+- 🐍 **Python** (with TensorFlow, Pandas, NumPy, Django, Flask).
+- 💎 **Ruby** (on Rails, for full-stack applications & backend services).
+- 🐘 **PHP** (using Laravel & Bango — my framework).
+- ☕️ **Java** (through AWT for graphical applications).
+- ➕ **C++** (for data structures & algorithms, machine learning).
+
+Last (but not least), I work pretty well too on the following environments and/or solutions:
+
+- 🎱 **8base** as a backend-as-a-service provider (with GraphQL).
+- 🔥 **Firebase** (and Google Cloud Platform for real-time applications).
 
 See more about me on my [website](https://gantoreno.com), see you there!
 
